@@ -4,6 +4,8 @@
 
 ProductConfigurationStorageExtension bundle provides plugin interfaces used by Product Configuration Storage bundle.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
